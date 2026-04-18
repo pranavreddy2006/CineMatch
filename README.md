@@ -35,7 +35,7 @@ In the era of streaming platforms like **Netflix** and **Amazon Prime**, users o
 
   * Popularity-Based Recommendation (for cold start problem)
 
----
+
 
 ## 📊 Dataset Information
 
@@ -45,7 +45,7 @@ In the era of streaming platforms like **Netflix** and **Amazon Prime**, users o
 * **Total Users**: 610
 * **Sparsity**: 98.30%
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -55,7 +55,7 @@ In the era of streaming platforms like **Netflix** and **Amazon Prime**, users o
 * scikit-learn
 * scikit-surprise
 
----
+
 
 ## 📁 Project Structure
 
@@ -70,7 +70,7 @@ CineMatch_Project/
 └── movies.csv
 ```
 
----
+
 
 ## 📈 Key Results
 
@@ -83,7 +83,7 @@ CineMatch_Project/
 
 🏆 **Best Performing Model: SVD (Tuned)**
 
----
+
 
 ## ❄️ Cold Start Handling
 
@@ -93,7 +93,7 @@ For new users with no prior ratings:
 2. Ask users to rate 5–10 movies during onboarding
 3. Transition to a **hybrid recommendation system**
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -131,7 +131,7 @@ jupyter notebook
 
 Open **CineMatch_Recommendation_System.ipynb** and run all cells.
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -141,7 +141,7 @@ Open **CineMatch_Recommendation_System.ipynb** and run all cells.
 * 🔹 Implement Neural Collaborative Filtering
 * 🔹 Add advanced metrics like NDCG@K and Coverage
 
----
+
 
 ## 📦 Deliverables
 
@@ -151,13 +151,13 @@ Open **CineMatch_Recommendation_System.ipynb** and run all cells.
 * 📂 Dataset files
 * 📜 requirements.txt
 
----
+
 
 ## ⭐ Acknowledgements
 
 * MovieLens Dataset (GroupLens Research)
 
----
+
 
 ## 💡 Author
 
