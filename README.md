@@ -59,6 +59,7 @@ In the era of streaming platforms like **Netflix** and **Amazon Prime**, users o
 
 ## 📁 Project Structure
 
+```
 CineMatch_Project/
 ├── CineMatch_Recommendation_System.ipynb
 ├── CineMatch_Report.pdf
@@ -67,6 +68,7 @@ CineMatch_Project/
 ├── requirements.txt
 ├── ratings.csv
 └── movies.csv
+```
 
 ---
 
@@ -101,21 +103,29 @@ Launch Anaconda Prompt on your system.
 
 ### 2️⃣ Create & Activate Environment (First Time Only)
 
+```
 conda create -n cine_env python=3.9
 conda activate cine_env
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Activate Environment
 
+```
 conda activate cine_env
+```
 
 ### 4️⃣ Navigate to Project Directory
 
+```
 cd "path_to_your_project_folder"
+```
 
 ### 5️⃣ Launch Jupyter Notebook
 
+```
 jupyter notebook
+```
 
 ### 6️⃣ Run the Notebook
 
@@ -151,6 +161,6 @@ Open **CineMatch_Recommendation_System.ipynb** and run all cells.
 
 ## 💡 Author
 
-G Pranav Reddy
+**G Pranav Reddy**
 
 ---
