@@ -162,5 +162,3 @@ Open **CineMatch_Recommendation_System.ipynb** and run all cells.
 ## 💡 Author
 
 **G Pranav Reddy**
-
----
