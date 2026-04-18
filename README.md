@@ -2,7 +2,7 @@
 
 **Collaborative Filtering-Based Movie Recommender**
 
----
+
 
 ## 📋 Project Overview
 
@@ -10,7 +10,7 @@ In the era of streaming platforms like **Netflix** and **Amazon Prime**, users o
 
 **CineMatch** is an intelligent movie recommendation system that learns user preferences from past ratings and predicts movies they are likely to enjoy using **Collaborative Filtering techniques**.
 
----
+
 
 ## ⚙️ Implemented Approaches
 
