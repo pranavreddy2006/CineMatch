@@ -1,0 +1,16 @@
+1. Open Anaconda Prompt
+
+2. Create environment (first time only)
+   conda create -n cine_env python=3.9
+
+3. Activate environment
+   conda activate cine_env
+
+4. Install dependencies
+   pip install -r requirements.txt
+
+5. Go to project folder
+   cd "path_to_project_folder"
+
+6. Launch notebook
+   jupyter notebook
